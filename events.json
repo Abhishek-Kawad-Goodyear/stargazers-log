@@ -1,0 +1,38 @@
+[
+  {
+    "name": "astro",
+    "owner": "withastro",
+    "description": "The web framework for content-driven websites.",
+    "language": "TypeScript",
+    "stars": 49000,
+    "url": "https://github.com/withastro/astro",
+    "starredAt": "2026-09-18"
+  },
+  {
+    "name": "ruff",
+    "owner": "astral-sh",
+    "description": "An extremely fast Python linter and code formatter.",
+    "language": "Rust",
+    "stars": 42000,
+    "url": "https://github.com/astral-sh/ruff",
+    "starredAt": "2026-09-11"
+  },
+  {
+    "name": "htmx",
+    "owner": "bigskysoftware",
+    "description": "High power tools for HTML.",
+    "language": "JavaScript",
+    "stars": 37000,
+    "url": "https://github.com/bigskysoftware/htmx",
+    "starredAt": "2026-08-29"
+  },
+  {
+    "name": "storybook",
+    "owner": "storybookjs",
+    "description": "Build, test, and document UI components in isolation.",
+    "language": "TypeScript",
+    "stars": 84000,
+    "url": "https://github.com/storybookjs/storybook",
+    "starredAt": "2026-08-14"
+  }
+]
