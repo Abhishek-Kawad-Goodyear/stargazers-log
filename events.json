@@ -1,0 +1,29 @@
+[
+  {
+    "name": "freeCodeCamp",
+    "full_name": "freeCodeCamp/freeCodeCamp",
+    "description": "The world's most popular developer community and open source learning platform.",
+    "language": "TypeScript",
+    "stars": 410000,
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "starred_at": "2026-09-20"
+  },
+  {
+    "name": "public-apis",
+    "full_name": "public-apis/public-apis",
+    "description": "A collective list of free APIs for use in software and web development.",
+    "language": "Python",
+    "stars": 330000,
+    "url": "https://github.com/public-apis/public-apis",
+    "starred_at": "2026-09-15"
+  },
+  {
+    "name": "sindresorhus/awesome",
+    "full_name": "sindresorhus/awesome",
+    "description": "A curated list of awesome lists.",
+    "language": "",
+    "stars": 370000,
+    "url": "https://github.com/sindresorhus/awesome",
+    "starred_at": "2026-09-08"
+  }
+]
